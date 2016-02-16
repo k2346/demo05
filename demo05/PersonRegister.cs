@@ -49,7 +49,7 @@ namespace PersonApplication
                 return persons.ElementAt(index);
             }
             else
-            {
+            { 
                 return null;
             }
         }
